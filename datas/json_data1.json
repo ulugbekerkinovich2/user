@@ -1,0 +1,987 @@
+[
+  {
+    "direction_id": 1,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 2,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 3,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 4,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 4,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 4,
+    "education_type_id": 3,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 5,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 5,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 5,
+    "education_type_id": 3,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 6,
+    "education_type_id": 1,
+    "local_tuition_fee": 19000000
+  },
+  {
+    "direction_id": 6,
+    "education_type_id": 3,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 7,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 7,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 7,
+    "education_type_id": 3,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 8,
+    "education_type_id": 1,
+    "local_tuition_fee": 20000000
+  },
+  {
+    "direction_id": 8,
+    "education_type_id": 2,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 8,
+    "education_type_id": 3,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 9,
+    "education_type_id": 1,
+    "local_tuition_fee": 20000000
+  },
+  {
+    "direction_id": 9,
+    "education_type_id": 2,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 9,
+    "education_type_id": 3,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 10,
+    "education_type_id": 1,
+    "local_tuition_fee": 20000000
+  },
+  {
+    "direction_id": 10,
+    "education_type_id": 2,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 10,
+    "education_type_id": 3,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 11,
+    "education_type_id": 1,
+    "local_tuition_fee": 20000000
+  },
+  {
+    "direction_id": 11,
+    "education_type_id": 2,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 11,
+    "education_type_id": 3,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 12,
+    "education_type_id": 1,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 12,
+    "education_type_id": 2,
+    "local_tuition_fee": 14000000
+  },
+  {
+    "direction_id": 13,
+    "education_type_id": 1,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 13,
+    "education_type_id": 2,
+    "local_tuition_fee": 14000000
+  },
+  {
+    "direction_id": 14,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 14,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 15,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 15,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 16,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 16,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 17,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 17,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 18,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 18,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 19,
+    "education_type_id": 1,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 19,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 20,
+    "education_type_id": 1,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 20,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 21,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 21,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 22,
+    "education_type_id": 1,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 22,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 23,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 23,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 24,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 24,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 25,
+    "education_type_id": 1,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 25,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 26,
+    "education_type_id": 1,
+    "local_tuition_fee": 26000000
+  },
+  {
+    "direction_id": 27,
+    "education_type_id": 1,
+    "local_tuition_fee": 26000000
+  },
+  {
+    "direction_id": 28,
+    "education_type_id": 1,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 28,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 29,
+    "education_type_id": 1,
+    "local_tuition_fee": 26000000
+  },
+  {
+    "direction_id": 30,
+    "education_type_id": 1,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 31,
+    "education_type_id": 1,
+    "local_tuition_fee": 22000000
+  },
+  {
+    "direction_id": 32,
+    "education_type_id": 1,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 32,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 33,
+    "education_type_id": 1,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 33,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 34,
+    "education_type_id": 1,
+    "local_tuition_fee": 16000000
+  },
+  {
+    "direction_id": 35,
+    "education_type_id": 1,
+    "local_tuition_fee": 22000000
+  },
+  {
+    "direction_id": 36,
+    "education_type_id": 1,
+    "local_tuition_fee": 22000000
+  },
+  {
+    "direction_id": 37,
+    "education_type_id": 1,
+    "local_tuition_fee": 16000000
+  },
+  {
+    "direction_id": 38,
+    "education_type_id": 1,
+    "local_tuition_fee": 16000000
+  },
+  {
+    "direction_id": 39,
+    "education_type_id": 1,
+    "local_tuition_fee": 16000000
+  },
+  {
+    "direction_id": 40,
+    "education_type_id": 1,
+    "local_tuition_fee": 22500000
+  },
+  {
+    "direction_id": 41,
+    "education_type_id": 1,
+    "local_tuition_fee": 24000000
+  },
+  {
+    "direction_id": 42,
+    "education_type_id": 1,
+    "local_tuition_fee": 22500000
+  },
+  {
+    "direction_id": 43,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 43,
+    "education_type_id": 2,
+    "local_tuition_fee": 11000000
+  },
+  {
+    "direction_id": 44,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 44,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 45,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 45,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 46,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 46,
+    "education_type_id": 2,
+    "local_tuition_fee": 11000000
+  },
+  {
+    "direction_id": 47,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 47,
+    "education_type_id": 2,
+    "local_tuition_fee": 11000000
+  },
+  {
+    "direction_id": 48,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 48,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 49,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 49,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 50,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 51,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 52,
+    "education_type_id": 2,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 53,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 54,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 55,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 56,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 56,
+    "education_type_id": 2,
+    "local_tuition_fee": 11000000
+  },
+  {
+    "direction_id": 57,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 57,
+    "education_type_id": 2,
+    "local_tuition_fee": 11000000
+  },
+  {
+    "direction_id": 58,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 59,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 60,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 61,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 62,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 63,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 64,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 65,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 66,
+    "education_type_id": 1,
+    "local_tuition_fee": 17000000
+  },
+  {
+    "direction_id": 67,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 67,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 67,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 68,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 68,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 68,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 69,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 69,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 69,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 70,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 70,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 70,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 71,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 71,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 71,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 72,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 72,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 72,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 73,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 73,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 73,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 74,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 74,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 74,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 75,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 75,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 75,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 76,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 76,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 76,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 77,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 77,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 77,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 78,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 78,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 78,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 79,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 79,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 79,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 80,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 80,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 80,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 81,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 81,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 81,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 82,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 82,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 82,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 83,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 83,
+    "education_type_id": 2,
+    "local_tuition_fee": 9000000
+  },
+  {
+    "direction_id": 83,
+    "education_type_id": 3,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 84,
+    "education_type_id": 1,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 84,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 85,
+    "education_type_id": 1,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 85,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 86,
+    "education_type_id": 1,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 86,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 87,
+    "education_type_id": 1,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 87,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 88,
+    "education_type_id": 1,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 89,
+    "education_type_id": 1,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 90,
+    "education_type_id": 1,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 91,
+    "education_type_id": 1,
+    "local_tuition_fee": 12000000
+  },
+  {
+    "direction_id": 91,
+    "education_type_id": 2,
+    "local_tuition_fee": 10000000
+  },
+  {
+    "direction_id": 92,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 92,
+    "education_type_id": 2,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 93,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 93,
+    "education_type_id": 2,
+    "local_tuition_fee": 13000000
+  },
+  {
+    "direction_id": 94,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 95,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 96,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 97,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 98,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 99,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 100,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 101,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 102,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 103,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 104,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 105,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 106,
+    "education_type_id": 1,
+    "local_tuition_fee": 15000000
+  },
+  {
+    "direction_id": 107,
+    "education_type_id": 1,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 108,
+    "education_type_id": 1,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 109,
+    "education_type_id": 1,
+    "local_tuition_fee": 19000000
+  },
+  {
+    "direction_id": 110,
+    "education_type_id": 1,
+    "local_tuition_fee": 19000000
+  },
+  {
+    "direction_id": 111,
+    "education_type_id": 1,
+    "local_tuition_fee": 18000000
+  },
+  {
+    "direction_id": 112,
+    "education_type_id": 1,
+    "local_tuition_fee": 21000000
+  },
+  {
+    "direction_id": 113,
+    "education_type_id": 1,
+    "local_tuition_fee": 21000000
+  },
+  {
+    "direction_id": 114,
+    "education_type_id": 1,
+    "local_tuition_fee": 21000000
+  },
+  {
+    "direction_id": 115,
+    "education_type_id": 1,
+    "local_tuition_fee": 21000000
+  }
+]

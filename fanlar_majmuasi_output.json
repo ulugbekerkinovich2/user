@@ -1,0 +1,3404 @@
+[
+    {
+        "T/r": "1",
+        "Yo‘nalish kodi": "60110100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Pedagogika",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "2",
+        "Yo‘nalish kodi": "60110200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Maktabgacha ta’lim",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "3",
+        "Yo‘nalish kodi": "60110300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Maktabgacha ta’lim psixologiyasi va pedagogikasi",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "4",
+        "Yo‘nalish kodi": "60110500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Boshlang‘ich ta’lim",
+        "1-fan": "Ona tili va adabiyoti",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "5",
+        "Yo‘nalish kodi": "60110600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Matematika va informatika",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "6",
+        "Yo‘nalish kodi": "60110700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Fizika va astronomiya",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "7",
+        "Yo‘nalish kodi": "60110800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kimyo",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "8",
+        "Yo‘nalish kodi": "60110900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Biologiya",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "9",
+        "Yo‘nalish kodi": "60111000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Geografiya va iqtisodiy bilim asoslari",
+        "1-fan": "Geografiya",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "10",
+        "Yo‘nalish kodi": "60111100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "11",
+        "Yo‘nalish kodi": "60111400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘zbek tili va adabiyotii",
+        "1-fan": "O‘zbek tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "12",
+        "Yo‘nalish kodi": "60111500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ona tili va adabiyotii: koreys tili va adabiyoti",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "13",
+        "Yo‘nalish kodi": "60111500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ona tili va adabiyoti: qirg‘iz tili va adabiyoti",
+        "1-fan": "Qirg‘iz tili va adabiyoti",
+        "2-fan": "Tarix"
+    },
+    {
+        "T/r": "14",
+        "Yo‘nalish kodi": "60111500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ona tili va adabiyoti: qozoq tili va adabiyoti",
+        "1-fan": "Qozoq tili va adabiyoti",
+        "2-fan": "Tarix"
+    },
+    {
+        "T/r": "15",
+        "Yo‘nalish kodi": "60111500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ona tili va adabiyoti: qoraqalpoq tili va adabiyoti",
+        "1-fan": "Qoraqalpoq tili va adabiyoti",
+        "2-fan": "Tarix"
+    },
+    {
+        "T/r": "16",
+        "Yo‘nalish kodi": "60111500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ona tili va adabiyoti: Rus tili va adabiyotii",
+        "1-fan": "Rus tili va adabiyoti",
+        "2-fan": "Tarix"
+    },
+    {
+        "T/r": "17",
+        "Yo‘nalish kodi": "60111500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ona tili va adabiyoti: tojik tili va adabiyoti",
+        "1-fan": "Tojik tili va adabiyoti",
+        "2-fan": "Tarix"
+    },
+    {
+        "T/r": "18",
+        "Yo‘nalish kodi": "60111500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ona tili va adabiyoti: turkman tili va adabiyoti",
+        "1-fan": "Turkman tili va adabiyoti",
+        "2-fan": "Tarix"
+    },
+    {
+        "T/r": "19",
+        "Yo‘nalish kodi": "60111600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘zga tilli guruhlarda o‘zbek tili (rus guruhlari uchun)",
+        "1-fan": "O‘zbek tili",
+        "2-fan": "Rus tili va adabiyoti"
+    },
+    {
+        "T/r": "20",
+        "Yo‘nalish kodi": "60111600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘zga tilli guruhlarda o‘zbek tili (qoraqalpoq guruhlari uchun)",
+        "1-fan": "O‘zbek tili",
+        "2-fan": "Qoraqalpoq tili va adabiyoti"
+    },
+    {
+        "T/r": "21",
+        "Yo‘nalish kodi": "60111701",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘zga tilli guruhlarda rus tili (o‘zbek guruhlari uchun)",
+        "1-fan": "Rus tili",
+        "2-fan": "O‘zbek tili va adabiyoti"
+    },
+    {
+        "T/r": "22",
+        "Yo‘nalish kodi": "60111701",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘zga tilli guruhlarda rus tili (qoraqalpoq guruhlari uchun)",
+        "1-fan": "Rus tili",
+        "2-fan": "Qoraqalpoq tili va adabiyoti"
+    },
+    {
+        "T/r": "23",
+        "Yo‘nalish kodi": "60111800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy til va adabiyoti: ingliz tili",
+        "1-fan": "Ingliz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "24",
+        "Yo‘nalish kodi": "60111800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy til va adabiyoti: nemis tili",
+        "1-fan": "Nemis tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "25",
+        "Yo‘nalish kodi": "60111800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy til va adabiyoti: rus tili",
+        "1-fan": "Rus tili va adabiyoti",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "26",
+        "Yo‘nalish kodi": "60111800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy til va adabiyoti: fransuz tili",
+        "1-fan": "Fransuz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "27",
+        "Yo‘nalish kodi": "60112000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Chaqiriqqacha harbiy ta’lim",
+        "1-fan": "Matematika",
+        "2-fan": "Kasbiy (ijodiy) imtihon"
+    },
+    {
+        "T/r": "28",
+        "Yo‘nalish kodi": "60112100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Milliy g‘oya, ma’naviyat asoslari va huquq ta’limi",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "29",
+        "Yo‘nalish kodi": "60112300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik ta’lim",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "30",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: iqtisodiyot",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "31",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: qishloq xo‘jaligini mexanizatsiyalashtirish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "32",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: agronomiya",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "33",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: axborot tizimlari va texnologiyalari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "34",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: yer kadastri va yer tuzish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "35",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: iqtisodiyot",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "36",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: kimyoviy texnologiya",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "37",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: qishloq xo‘jalik mahsulotlarini saqlash va dastlabki ishlash texnologiyasi",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "38",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: qurilish muhandisligi (bino va inshootlar qurilishi)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "39",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: mexatronika va robototexnika",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "40",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: muhandislik kommunikatsiyalari qurilishi va montaji",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "41",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: suv xo‘jaligi va melioratsiya",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "42",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: texnologik mashinalar va jihozlar",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "43",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: transport vositalari muhandisligi (avtotransport)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "44",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: tuproq bonitirovkasi va yer resurslaridan foydalanish",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "45",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: o‘rmonchilik",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "46",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: o‘simliklarni himoya qilish",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "47",
+        "Yo‘nalish kodi": "60112400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Professional ta’lim: elektr texnikasi, elektr mexanikasi va elektr texnologiyalari",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "48",
+        "Yo‘nalish kodi": "60112500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Maktab menejmenti",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "49",
+        "Yo‘nalish kodi": "60112600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Maktabgacha va boshlang‘ich ta’limda xorijiy til: ingliz tili",
+        "1-fan": "Ingliz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "50",
+        "Yo‘nalish kodi": "60112700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Maxsus pedagogika: logopediya",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "51",
+        "Yo‘nalish kodi": "60112700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Maxsus pedagogika: surdopedagogika",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "52",
+        "Yo‘nalish kodi": "60112700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Maxsus pedagogika: oligofrenopedagogika",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "53",
+        "Yo‘nalish kodi": "60112700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Maxsus pedagogika: tiflopedagogika",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "54",
+        "Yo‘nalish kodi": "60211800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "San’at sohasida prodyuserlik",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "55",
+        "Yo‘nalish kodi": "60212000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Madaniyat va san’at muassasalarini tashkil etish hamda boshqarish",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "56",
+        "Yo‘nalish kodi": "60212100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Muzeyshunoslik: muzey predmetlari ekspertizasi, konservatsiyalash va",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va"
+    },
+    {
+        "T/r": "57",
+        "Yo‘nalish kodi": "60212100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Muzeyshunoslik: muzey menejmenti va madaniy turizm",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "58",
+        "Yo‘nalish kodi": "60212100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Muzeyshunoslik (turlari bo‘yicha)",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "59",
+        "Yo‘nalish kodi": "60212200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Madaniy meros obyektlarini asrash",
+        "1-fan": "Matematika",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "60",
+        "Yo‘nalish kodi": "60220100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Dinshunoslik",
+        "1-fan": "Tarix",
+        "2-fan": "Kasbiy (ijodiy) imtihon"
+    },
+    {
+        "T/r": "61",
+        "Yo‘nalish kodi": "60220200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Islomshunoslik (qur’onshunoslik, hadisshunoslik, islom huquqi, aqida va tasavvuf, islom tarixi va manbashunosligi)",
+        "1-fan": "Tarix",
+        "2-fan": "Kasbiy (ijodiy) imtihon"
+    },
+    {
+        "T/r": "62",
+        "Yo‘nalish kodi": "60220200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Islomshunoslik (yo‘nalishlar bo‘yicha)",
+        "1-fan": "Tarix",
+        "2-fan": "Kasbiy (ijodiy) imtihon"
+    },
+    {
+        "T/r": "63",
+        "Yo‘nalish kodi": "60220300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix (mamlakatlar va yo‘nalishlar bo‘yicha)",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "64",
+        "Yo‘nalish kodi": "60220300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix: Arab mamlakatlari tarixi",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "65",
+        "Yo‘nalish kodi": "60220300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix: Afg‘oniston tarixi",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "66",
+        "Yo‘nalish kodi": "60220300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix: Koreya tarixi",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "67",
+        "Yo‘nalish kodi": "60220300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix: Xitoy tarixi",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "68",
+        "Yo‘nalish kodi": "60220300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix: Yaponiya tarixi",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "69",
+        "Yo‘nalish kodi": "60220300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix: Markaziy Osiyo xalqlari tarixi",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "70",
+        "Yo‘nalish kodi": "60220300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix (islom tarixi va manbashunosligi)",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "71",
+        "Yo‘nalish kodi": "60220303",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix: Eron tarixi",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "72",
+        "Yo‘nalish kodi": "60220309",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarix: Turkiya tarixi",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "73",
+        "Yo‘nalish kodi": "60220400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Arxeologiya",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "74",
+        "Yo‘nalish kodi": "60220500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Falsafa (yo‘nalishlar bo‘yicha)",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "75",
+        "Yo‘nalish kodi": "60220500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Falsafa (tizimli tahlil va mantiq)",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "76",
+        "Yo‘nalish kodi": "60220500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Falsafa (sharq falsafasi va madaniyati)",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "77",
+        "Yo‘nalish kodi": "60220600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Amaliy etika",
+        "1-fan": "Tarix",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "78",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: arab tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "79",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: dariy tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "80",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: ingliz tili",
+        "1-fan": "Ingliz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "81",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: ispan tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "82",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: italyan tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "83",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: koreys tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "84",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: qozoq tili",
+        "1-fan": "Qozoq tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "85",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: qoraqalpoq tili",
+        "1-fan": "Qoraqalpoq tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "86",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: mumtoz sharq tillari (arab tili)",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "87",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: nemis tili",
+        "1-fan": "Nemis tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "88",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: pushtu tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "89",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: rus tili",
+        "1-fan": "Rus tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "90",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: tojik tili",
+        "1-fan": "Tojik tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "91",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: turk tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "92",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: turkman tili",
+        "1-fan": "Turkman tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "93",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: o‘zbek tili",
+        "1-fan": "O‘zbek tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "94",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: uyg‘ur tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "95",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: urdu tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "96",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: fors tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "97",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: fransuz tili",
+        "1-fan": "Fransuz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "98",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: xitoy tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "99",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: hind tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "100",
+        "Yo‘nalish kodi": "60230100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Filologiya va tillarni o‘qitish: yapon tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "101",
+        "Yo‘nalish kodi": "60230200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarjima nazariyasi va amaliyoti: ingliz tili",
+        "1-fan": "Ingliz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "102",
+        "Yo‘nalish kodi": "60230200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarjima nazariyasi va amaliyoti: nemis tili",
+        "1-fan": "Nemis tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "103",
+        "Yo‘nalish kodi": "60230200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarjima nazariyasi va amaliyoti: fransuz tili",
+        "1-fan": "Fransuz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "104",
+        "Yo‘nalish kodi": "60230200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarjima nazariyasi va amaliyoti: italyan tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "105",
+        "Yo‘nalish kodi": "60230200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarjima nazariyasi va amaliyoti: arab tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "106",
+        "Yo‘nalish kodi": "60230200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarjima nazariyasi va amaliyoti: urdu tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "107",
+        "Yo‘nalish kodi": "60230200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tarjima nazariyasi va amaliyoti: rus tili",
+        "1-fan": "Rus tili",
+        "2-fan": "O‘zbek tili va adabiyotii"
+    },
+    {
+        "T/r": "108",
+        "Yo‘nalish kodi": "60230300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Matnshunoslik va adabiy manbashunoslik: o‘zbek tili",
+        "1-fan": "O‘zbek tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "109",
+        "Yo‘nalish kodi": "60230300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Matnshunoslik va adabiy manbashunoslik: arab tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "110",
+        "Yo‘nalish kodi": "60230300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Matnshunoslik va adabiy manbashunoslik: fors tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "111",
+        "Yo‘nalish kodi": "60230500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Antropologiya va etnologiya",
+        "1-fan": "Tarix",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "",
+        "Yo‘nalish kodi": "",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "",
+        "1-fan": "",
+        "2-fan": ""
+    },
+    {
+        "T/r": "",
+        "Yo‘nalish kodi": "",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "",
+        "1-fan": "",
+        "2-fan": ""
+    },
+    {
+        "T/r": "112",
+        "Yo‘nalish kodi": "60230600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Noshirlik ishi",
+        "1-fan": "Ona tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "113",
+        "Yo‘nalish kodi": "60230700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Amaliy filologiya",
+        "1-fan": "O‘zbek tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "114",
+        "Yo‘nalish kodi": "60230800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kompyuter lingvistikasi",
+        "1-fan": "O‘zbek tili va adabiyoti",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "115",
+        "Yo‘nalish kodi": "60230900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Folklorshunoslik va shevashunoslik",
+        "1-fan": "O‘zbek tili va adabiyoti",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "116",
+        "Yo‘nalish kodi": "60310100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Iqtisodiyot (tarmoqlar va sohalar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "117",
+        "Yo‘nalish kodi": "60310100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Iqtisodiyot (matematik iqtisodiyot)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "118",
+        "Yo‘nalish kodi": "60310100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Iqtisodiyot: oziq-ovqat va resurslar iqtisodiyoti",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "119",
+        "Yo‘nalish kodi": "60310100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Iqtisodiyot: qishloq xo‘jaligi iqtisodiyoti",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "120",
+        "Yo‘nalish kodi": "60310100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Iqtisodiyot (qishloq xo‘jaligida)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "121",
+        "Yo‘nalish kodi": "60310100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Iqtisodiyot (temir yo‘l transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "122",
+        "Yo‘nalish kodi": "60310100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Iqtisodiyot (avtomobil transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "123",
+        "Yo‘nalish kodi": "60310200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ekonometrika",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "124",
+        "Yo‘nalish kodi": "60310300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mintaqaviy iqtisodiyot",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "125",
+        "Yo‘nalish kodi": "60310400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Iqtisodiy xavfsizlik",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "126",
+        "Yo‘nalish kodi": "60310500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Raqamli iqtisodiyot (tarmoqlar va sohalar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "127",
+        "Yo‘nalish kodi": "60310500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Raqamli iqtisodiyot (transport)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "128",
+        "Yo‘nalish kodi": "60310700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Siyosatshunoslik",
+        "1-fan": "Tarix",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "129",
+        "Yo‘nalish kodi": "60310800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xalqaro munosabatlar",
+        "1-fan": "Tarix",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "130",
+        "Yo‘nalish kodi": "60310900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Psixologiya: yoshlar psixologiyasi",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "131",
+        "Yo‘nalish kodi": "60310900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Psixologiya: oila psixologiyasi",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "132",
+        "Yo‘nalish kodi": "60310900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Psixologiya (sport psixologiyasi)",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "133",
+        "Yo‘nalish kodi": "60310900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Psixologiya (din sotsiopsixologiyasi)",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "134",
+        "Yo‘nalish kodi": "60310900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Psixologiya: amaliy psixologiya",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va"
+    },
+    {
+        "T/r": "135",
+        "Yo‘nalish kodi": "60311000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Sotsiologiya",
+        "1-fan": "Matematika",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "136",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: bosma ommaviy axborot vositalari jurnalistikasi",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "137",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: iqtisodiy jurnalistika",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "138",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: internet jurnalistikasi",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "139",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: sayohat jurnalistikasi",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "140",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: san’at jurnalistikasi",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "141",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: sport jurnalistikasi",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "142",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: teleradio jurnalistikasi",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "143",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: xalkaro jurnalistika",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "144",
+        "Yo‘nalish kodi": "60320100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jurnalistika: harbiy jurnalistika",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "145",
+        "Yo‘nalish kodi": "60320200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot xizmati va jamoatchilik bilan aloqalar",
+        "1-fan": "Kasbiy (ijodiy imtihon)",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "146",
+        "Yo‘nalish kodi": "60320300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Arxivshunoslik",
+        "1-fan": "Tarix",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "147",
+        "Yo‘nalish kodi": "60320400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kutubxona-axborot faoliyati (faoliyat turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "148",
+        "Yo‘nalish kodi": "60410100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Buxgalteriya hisobi va audit (tarmoqlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "149",
+        "Yo‘nalish kodi": "60410100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Buxgalteriya hisobi va audit (qishloq xo‘jaligida)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "150",
+        "Yo‘nalish kodi": "60410100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Buxgalteriya hisobi va audit (temir yo‘l transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "151",
+        "Yo‘nalish kodi": "60410100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Buxgalteriya hisobi va audit (avtomobil transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "152",
+        "Yo‘nalish kodi": "60410200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Soliqlar va soliqqa tortish (faoliyat turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "153",
+        "Yo‘nalish kodi": "60410400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Moliya va moliyaviy texnologiyalar",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "154",
+        "Yo‘nalish kodi": "60410500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Bank ishi va auditi",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "155",
+        "Yo‘nalish kodi": "60410600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Sug‘urta ishi",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "156",
+        "Yo‘nalish kodi": "60410700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Budjet nazorati va g‘aznachiligi",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "157",
+        "Yo‘nalish kodi": "60410800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Statistika (tarmoqlar va sohalar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "158",
+        "Yo‘nalish kodi": "60410900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Birja ishi",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "159",
+        "Yo‘nalish kodi": "60411000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Investitsion loyihalarga xizmat ko‘rsatish va moliyalashtirish",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "160",
+        "Yo‘nalish kodi": "60411100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Islom iqtisodiyoti va moliyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "161",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment (art menejment va galereya ishi)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "162",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment (jismoniy tarbiya va sport menejmenti)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "163",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment (mediamenejment)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "164",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment (sanoat korxonalarida innovatsion loyihalar boshqaruvi)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "165",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment (sport tadbirlarini tashkil etish va boshqarish)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "166",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment (tarmoqlar va sohalar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "167",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment (transport sohasida loyihalar  boshqaruvi)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "168",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment: madaniy merosni boshqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "169",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment: madaniyat va san’at sohasi menejmenti",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "170",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment: mehmonxonalarni boshqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "171",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment: ommaviy tadbirlar menejmenti",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "172",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment: sog‘liqni saqlash menejmenti",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "173",
+        "Yo‘nalish kodi": "60411200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Menejment: turizm biznesini boshqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "174",
+        "Yo‘nalish kodi": "60411300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Biznesni boshqarish (tarmoqlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "175",
+        "Yo‘nalish kodi": "60411300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Biznesni boshqarish (transport)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "176",
+        "Yo‘nalish kodi": "60411400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Inson resurslarini boshqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "177",
+        "Yo‘nalish kodi": "60411500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Biznes-tahlil",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "178",
+        "Yo‘nalish kodi": "60411600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Korporativ boshqaruv",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "179",
+        "Yo‘nalish kodi": "60411700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Logistika (yo‘nalishlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "180",
+        "Yo‘nalish kodi": "60411700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Logistika (agrologistika)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "181",
+        "Yo‘nalish kodi": "60411700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Logistika (turizm logistikasi)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "182",
+        "Yo‘nalish kodi": "60411800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Eron",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "183",
+        "Yo‘nalish kodi": "60411800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Malayziya",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "184",
+        "Yo‘nalish kodi": "60411800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Turkiya",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "185",
+        "Yo‘nalish kodi": "60411800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Xitoy",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "186",
+        "Yo‘nalish kodi": "60411800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Yaponiya",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "187",
+        "Yo‘nalish kodi": "60411900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Jahon iqtisodiyoti va xalqaro iqtisodiy munosabatlar (mintaqalar va faoliyat turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "188",
+        "Yo‘nalish kodi": "60412000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xalqaro iqtisodiyot va menejment (mintaqalar va faoliyat yo‘nalishlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "189",
+        "Yo‘nalish kodi": "60412100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xalqaro valyuta-kredit munosabatlari",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "190",
+        "Yo‘nalish kodi": "60412200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Moliya sohasida boshqaruv",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "191",
+        "Yo‘nalish kodi": "60412400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Agrobiznes va investitsion faoliyat",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "192",
+        "Yo‘nalish kodi": "60412500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Marketing (avtomobil transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "193",
+        "Yo‘nalish kodi": "60412500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Marketing (qishloq xo‘jaligida)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "194",
+        "Yo‘nalish kodi": "60412500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Marketing (mediamarketing va reklama)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "195",
+        "Yo‘nalish kodi": "60412500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Marketing (reklama ishi)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "196",
+        "Yo‘nalish kodi": "60412500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Marketing (sport marketingi)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "197",
+        "Yo‘nalish kodi": "60412500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Marketing (tarmoqlar va sohalar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "198",
+        "Yo‘nalish kodi": "60412500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Marketing (temir yo‘l transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "199",
+        "Yo‘nalish kodi": "60412600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Savdo ishi (turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "200",
+        "Yo‘nalish kodi": "60412700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Baholash ishi",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "201",
+        "Yo‘nalish kodi": "60412800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Elektron tijorat",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "202",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya: biznes huquqi",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "203",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya (faoliyat turlari bo‘yicha)",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "204",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya: transchegaraviy suv munosabatlari",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "205",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya: yer munosabatlari",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "206",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya (qishloq xo‘jaligi huquqi)",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "207",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya: davlat-huquqiy faoliyat",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "208",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya: jinoyat-huquqiy faoliyat",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "209",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya: xalqaro huquq va qiyosiy huquqshunoslik",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "210",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya (xalqaro transport huquqi)",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "211",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya (xalqaro huquqiy faoliyat)",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "212",
+        "Yo‘nalish kodi": "60420100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yurisprudensiya (islom huquqi)",
+        "1-fan": "Huquqshunoslik fanlari",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "213",
+        "Yo‘nalish kodi": "60421100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Patentshunoslik",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "214",
+        "Yo‘nalish kodi": "60421200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Davlat boshqaruvi",
+        "1-fan": "Tarix",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "215",
+        "Yo‘nalish kodi": "60510100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Biologiya (turlari bo‘yicha)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "216",
+        "Yo‘nalish kodi": "60510100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Biologiya (matematik biologiya)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "217",
+        "Yo‘nalish kodi": "60520100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gidrometeorologiya",
+        "1-fan": "Geografiya",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "218",
+        "Yo‘nalish kodi": "60520200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Meteorologiya va iqlimshunoslik",
+        "1-fan": "Matematika",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "219",
+        "Yo‘nalish kodi": "60530100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kimyo (turlari bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "220",
+        "Yo‘nalish kodi": "60530200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Neft va gaz kimyosi",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "221",
+        "Yo‘nalish kodi": "60530300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tabiiy va fiziologik faol birikmalar kimyosi",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "222",
+        "Yo‘nalish kodi": "60530400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Geografiya",
+        "1-fan": "Geografiya",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "223",
+        "Yo‘nalish kodi": "60530500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Geologiya (faoliyat sohasi bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "224",
+        "Yo‘nalish kodi": "60530500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Geologiya (neft va gaz geofizikasi)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "225",
+        "Yo‘nalish kodi": "60530700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tuproqshunoslik",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "226",
+        "Yo‘nalish kodi": "60530800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gidrologiya (tarmoqlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "227",
+        "Yo‘nalish kodi": "60530800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gidrologiya (daryo va suv omborlari gidrologiyasi)",
+        "1-fan": "Matematika",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "228",
+        "Yo‘nalish kodi": "60530900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Fizika",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "229",
+        "Yo‘nalish kodi": "60530900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Fizika (matematik fizika)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "230",
+        "Yo‘nalish kodi": "60531000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mexanika va matematik modellashtirish",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "231",
+        "Yo‘nalish kodi": "60531100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Astronomiya",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "232",
+        "Yo‘nalish kodi": "60531200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tibbiyot fizikasi",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "233",
+        "Yo‘nalish kodi": "60531300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Seysmologiya va seysmometriya",
+        "1-fan": "Matematika",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "234",
+        "Yo‘nalish kodi": "60540100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Matematika",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "235",
+        "Yo‘nalish kodi": "60540200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Amaliy matematika",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "236",
+        "Yo‘nalish kodi": "60540300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Matematik injiniring (ishlab chiqarish sohalari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "237",
+        "Yo‘nalish kodi": "60540300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Matematik injiniring (transport)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "238",
+        "Yo‘nalish kodi": "60610100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kompyuter ilmlari va dasturlash texnologiyalari (yo‘nalishlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "239",
+        "Yo‘nalish kodi": "60610200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot tizimlari va texnologiyalari (tarmoqlar va sohalar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "240",
+        "Yo‘nalish kodi": "60610200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot tizimlari va texnologiyalari (moliya-bank tizimida)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "241",
+        "Yo‘nalish kodi": "60610200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot tizimlari va texnologiyalari (qishloq xo‘jaligida raqamli texnologiyalar)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "242",
+        "Yo‘nalish kodi": "60610200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot tizimlari va texnologiyalari (temir yo‘l transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "243",
+        "Yo‘nalish kodi": "60610300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot xavfsizligi (sohalar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "244",
+        "Yo‘nalish kodi": "60610400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot xavfsizligini boshqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "245",
+        "Yo‘nalish kodi": "60610500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "\"Kompyuter injiniringi (\"\"Kompyuter injiniringi\"\", \"\"AT- Servis\"\",  \"\"Multimedia texnologiyalari\"\")\"",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "246",
+        "Yo‘nalish kodi": "60610500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kompyuter injiniringi (“Kompyuter injiniringi”, “AT-Servis”, “Axborot xavfsizligi”, “Multimedia texnologiyalari”)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "247",
+        "Yo‘nalish kodi": "60610500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "\"Kompyuter injiniringi: (\"\"Kompyuter injiniringi\"\", \"\"AT- Servis\"\",  \"\"Multimedia texnologiyalari\"\")\"",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "248",
+        "Yo‘nalish kodi": "60610500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kompyuter injiniringi: AT-Servis",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "249",
+        "Yo‘nalish kodi": "60610500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kompyuter injiniringi: kompyuter injiniringi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "250",
+        "Yo‘nalish kodi": "60610500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kompyuter injiniringi: multimedia texnologiyalari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "251",
+        "Yo‘nalish kodi": "60610600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Dasturiy injiniring",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "252",
+        "Yo‘nalish kodi": "60610700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Sun’iy intellekt",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "253",
+        "Yo‘nalish kodi": "60611000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Telekommunikatsiya texnologiyalari (“Telekommunikatsiyalar”, Teleradioeshittirish”, “Mobil tizimlar”)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "254",
+        "Yo‘nalish kodi": "60611000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Telekommunikatsiya texnologiyalari: Telekommunikatsiyalar",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "255",
+        "Yo‘nalish kodi": "60611100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Televizion texnologiyalar (“Audiovizual texnologiyalar”, “Telestudiya tizimlari va ilovalari”)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "256",
+        "Yo‘nalish kodi": "60611200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot-kommunikatsiya texnologiyalari sohasida iqtisodiyot va menejment",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "257",
+        "Yo‘nalish kodi": "60611300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Axborot-kommunikatsiya texnologiyalari sohasida kasb ta’limi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "258",
+        "Yo‘nalish kodi": "60611400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Pochta aloqasi texnologiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "259",
+        "Yo‘nalish kodi": "60611500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Radioelektron qurilmalar va tizimlar (tarmoqlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "260",
+        "Yo‘nalish kodi": "60611500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Radioelektron qurilmalar va tizimlar (temir yo‘l transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "261",
+        "Yo‘nalish kodi": "60611500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Radioelektron qurilmalar va tizimlar (aviatsiya transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "262",
+        "Yo‘nalish kodi": "60612000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Infokommunikatsiya injiniringi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "263",
+        "Yo‘nalish kodi": "60612100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kiberxavfsizlik injiniringi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "264",
+        "Yo‘nalish kodi": "60612200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ma’lumotlar ilmi (Data Science)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "265",
+        "Yo‘nalish kodi": "60710100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kimyoviy texnologiya (ishlab chiqarish turlari bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "266",
+        "Yo‘nalish kodi": "60710100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kimyoviy texnologiya (sellyuloza-qog‘oz ishlab chiqarish kimyoviy texnologiyasi)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "267",
+        "Yo‘nalish kodi": "60710100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kimyoviy texnologiya: noorganik moddalar kimyoviy texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "268",
+        "Yo‘nalish kodi": "60710100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kimyoviy texnologiya: qurilish materiallari kimyoviy texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "269",
+        "Yo‘nalish kodi": "60710200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Biotexnologiya (tarmoqlar bo‘yicha)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "270",
+        "Yo‘nalish kodi": "60710300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Matbaa va qadoqlash jarayonlari texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "271",
+        "Yo‘nalish kodi": "60710400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ekologiya va atrof-muhit muhofazasi (tarmoqlar va sohalar bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "272",
+        "Yo‘nalish kodi": "60710400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ekologiya va atrof-muhit muhofazasi (suv xo‘jaligida)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "273",
+        "Yo‘nalish kodi": "60710400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ekologiya va atrof-muhit muhofazasi (qishloq xo‘jaligida)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "274",
+        "Yo‘nalish kodi": "60710400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ekologiya va atrof-muhit muhofazasi (avtomobil transporti)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "275",
+        "Yo‘nalish kodi": "60710500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Energetika (tarmoqlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "276",
+        "Yo‘nalish kodi": "60710600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Elektr energetikasi (tarmoqlar va yo‘nalishlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "277",
+        "Yo‘nalish kodi": "60710600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Elektr energetikasi (temir yo‘l transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "278",
+        "Yo‘nalish kodi": "60710700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Elektr texnikasi, elektr mexanikasi va elektr texnologiyalari (tarmoqlar bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "279",
+        "Yo‘nalish kodi": "60710700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Elektr texnikasi, elektr mexanikasi  va elektr texnologiyalari (temir yo‘l transporti)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "280",
+        "Yo‘nalish kodi": "60710800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gidroenergetika",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "281",
+        "Yo‘nalish kodi": "60710900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Energiya tejamkorligi va energoaudit",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "282",
+        "Yo‘nalish kodi": "60711000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Muqobil energiya manbalari (quyosh va shamol energiyasi texnologiyalari)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "283",
+        "Yo‘nalish kodi": "60711000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Muqobil energiya manbalari (vodorod energiyasi texnologiyalari)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "284",
+        "Yo‘nalish kodi": "60711000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Muqobil energiya manbalari (turlari bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "285",
+        "Yo‘nalish kodi": "60711100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Energiya mashinasozligi (tarmoqlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "286",
+        "Yo‘nalish kodi": "60711200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Elektronika va asbobsozlik (tarmoqlar bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "287",
+        "Yo‘nalish kodi": "60711300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Metrologiya, standartlashtirish va mahsulot sifati menejmenti (tarmoqlar bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "288",
+        "Yo‘nalish kodi": "60711300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Metrologiya, standartlashtirish va mahsulot sifati menejmenti (qishloq va suv xo‘jaligida)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "289",
+        "Yo‘nalish kodi": "60711300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Metrologiya, standartlashtirish va mahsulot sifati menejmenti (avtomobil transporti  va yo‘l qurilishi mashinalari)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "290",
+        "Yo‘nalish kodi": "60711400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish va boshqarish (tarmoqlar bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "291",
+        "Yo‘nalish kodi": "60711400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish  va boshqarish (tarmoqlar bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "292",
+        "Yo‘nalish kodi": "60711400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish va boshqarish (suv xo‘jaligida)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "293",
+        "Yo‘nalish kodi": "60711400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish va boshqarish (qishloq xo‘jaligida)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "294",
+        "Yo‘nalish kodi": "60711400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik jarayonlar va ishlab chiqarishni avtomatlashtirish va boshqarish (temir yo‘l transporti)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "295",
+        "Yo‘nalish kodi": "60711500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mexatronika va robototexnika",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "296",
+        "Yo‘nalish kodi": "60711600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Intellektual muhandislik tizimlari (tarmoqlar va sohalar bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "297",
+        "Yo‘nalish kodi": "60711600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Intellektual muhandislik tizimlari (avtomobil transporti)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "298",
+        "Yo‘nalish kodi": "60711700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Lazer-yorug‘lik texnologiyalari va optoelektronika",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "299",
+        "Yo‘nalish kodi": "60711800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Biotibbiyot muhandisligi",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "300",
+        "Yo‘nalish kodi": "60711900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik jarayonlarni boshqarishning axborot-kommunikatsiya tizimlari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "301",
+        "Yo‘nalish kodi": "60712000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Elektron apparaturalar ishlab chiqarish texnologiyasi",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "302",
+        "Yo‘nalish kodi": "60712100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Metallurgiya (metall turlari bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "303",
+        "Yo‘nalish kodi": "60712100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Metallurgiya (mis va noyob metallar)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "304",
+        "Yo‘nalish kodi": "60712200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Payvandlash texnologiyasi va jihozlari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "305",
+        "Yo‘nalish kodi": "60712300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Metallar texnologiyalari (jarayon turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "306",
+        "Yo‘nalish kodi": "60712400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Avtomobilsozlik va traktorsozlik",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "307",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "308",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (avtomobil transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "309",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (ko‘tarish-tashish, yo‘l va qurilish mashinalari)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "310",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (ixtisoslashtirilgan transport vositalari)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "311",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (elektromobil transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "312",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (lokomotivlar)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "313",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (vagonlar)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "314",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (elektr transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "315",
+        "Yo‘nalish kodi": "60712500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport vositalari muhandisligi (metropoliten)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "316",
+        "Yo‘nalish kodi": "60712600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Havo kemalarining texnik ekspluatatsiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "317",
+        "Yo‘nalish kodi": "60712800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Aviatsiya injiniringi (aviasozlik)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "318",
+        "Yo‘nalish kodi": "60712800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Aviatsiya injiniringi (uchuvchisiz uchish apparatlari aviatsiya majmualari)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "319",
+        "Yo‘nalish kodi": "60712900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Amaliy kosmik texnologiyalar",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "320",
+        "Yo‘nalish kodi": "60713000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gaz jihozlaridan foydalanish va ularga xizmat ko‘rsatish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "321",
+        "Yo‘nalish kodi": "60713200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transportda tashishni tashkil etish va boshqarish (temir yo‘l transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "322",
+        "Yo‘nalish kodi": "60720100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Oziq-ovqat texnologiyasi (mahsulot turlari bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "323",
+        "Yo‘nalish kodi": "60720200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yog‘lar, efir moylari va parfyumeriya-kosmetika mahsulotlari texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "324",
+        "Yo‘nalish kodi": "60720300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Vinochilik texnologiyasi, bijg‘ish mahsulotlari va alkogolsiz ichimliklar texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "325",
+        "Yo‘nalish kodi": "60720400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Konservalash texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "326",
+        "Yo‘nalish kodi": "60720500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Funksional ovqatlanish va bolalar mahsulotlari texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "327",
+        "Yo‘nalish kodi": "60720600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Materialshunoslik va yangi materiallar texnologiyasi (tarmoqlar bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "328",
+        "Yo‘nalish kodi": "60720600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Materialshunoslik va yangi materiallar texnologiyasi: qurilish",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "329",
+        "Yo‘nalish kodi": "60720600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Materialshunoslik va yangi materiallar texnologiyasi: mashinasozlik",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "330",
+        "Yo‘nalish kodi": "60720600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Materialshunoslik va yangi materiallar texnologiyasi (temir yo‘l transporti)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "331",
+        "Yo‘nalish kodi": "60720600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Materialshunoslik va yangi materiallar texnologiyasi (qurilish)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "332",
+        "Yo‘nalish kodi": "60720700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik mashinalar va jihozlar (tarmoqlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "333",
+        "Yo‘nalish kodi": "60720700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik mashinalar va jihozlar (elektronika sanoati)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "334",
+        "Yo‘nalish kodi": "60720700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnologik mashinalar va jihozlar (temir yo‘l transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "335",
+        "Yo‘nalish kodi": "60720800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mashinasozlik texnologiyasi, mashinasozlik ishlab chiqarishini jihozlash va avtomatlashtirish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "336",
+        "Yo‘nalish kodi": "60720900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Neft-gazkimyo sanoati texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "337",
+        "Yo‘nalish kodi": "60721000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gazni chuqur qayta ishlash texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "338",
+        "Yo‘nalish kodi": "60721100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Neft va neft-gazni qayta ishlash texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "339",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi (ishlab chiqarish turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "340",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi (milliy tikuv buyumlari)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "341",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi (tikuv buyumlari texnologiyasi)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "342",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi (charm buyumlari texnologiyasi)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "343",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi: gilamchilik",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "344",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi: yigirilgan ip ishlab chiqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "345",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi: ipak mahsulotlari ishlab chiqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "346",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi: noto‘qima materiallar texnologiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "347",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi: trikotaj",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "348",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi: to‘qima",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "349",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi: charm va mo‘yna texnologiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "350",
+        "Yo‘nalish kodi": "60721200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat buyumlari konstruksiyasini ishlash va texnologiyasi: shaxsiy buyurtma asosida kiyim tayyorlash",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "351",
+        "Yo‘nalish kodi": "60721300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tabiiy tolalarni dastlabki ishlash texnologiyasi (xom ashyo va jarayon",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "352",
+        "Yo‘nalish kodi": "60721400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat texnologiyalari va jihozlari (ishlab chiqarish turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "353",
+        "Yo‘nalish kodi": "60721400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat texnologiyalari va jihozlari: charm va mo‘ynani qayta ishlash va jihozlari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "354",
+        "Yo‘nalish kodi": "60721400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat texnologiyalari va jihozlari: poyabzal, charm-attorlik buyumlarini ishlab chiqarish va jihozlari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "355",
+        "Yo‘nalish kodi": "60721403",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yengil sanoat texnologiyalari va jihozlari: tikuvchilik sanoatida kreativ loyihalash va innovatsion texnologiyalar",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "356",
+        "Yo‘nalish kodi": "60721500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Konchilik ishi (faoliyat turlari bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "357",
+        "Yo‘nalish kodi": "60721500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Konchilik ishi (mis rudalarini boyitish)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "358",
+        "Yo‘nalish kodi": "60721600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Foydali qazilma konlari geologiyasi, qidiruv va razvedkasi (kon turlari bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "359",
+        "Yo‘nalish kodi": "60721600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Foydali qazilma konlari geologiyasi, qidiruv va razvedkasi (mis konlari)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "360",
+        "Yo‘nalish kodi": "60721700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gidrogeologiya va muhandislik geologiyasi",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "361",
+        "Yo‘nalish kodi": "60721800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Neft va gaz ishi (faoliyat turlari bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "362",
+        "Yo‘nalish kodi": "60721900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Konchilik elektr mexanikasi",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "363",
+        "Yo‘nalish kodi": "60722000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Marksheyderlik ishi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "364",
+        "Yo‘nalish kodi": "60722400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Noyob va radioaktiv metallar rudalarini qazib olish, qayta ishlash texnikasi va texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "365",
+        "Yo‘nalish kodi": "60722500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Geodeziya, kartografiya va kadastr (funksiyalari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "366",
+        "Yo‘nalish kodi": "60722600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Geodeziya va geoinformatika",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "367",
+        "Yo‘nalish kodi": "60722700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yerni masofaviy zondlashda innovatsion texnologiyalar",
+        "1-fan": "Matematika",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "368",
+        "Yo‘nalish kodi": "60722800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kadastr (ko‘chmas mulk kadastri)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "369",
+        "Yo‘nalish kodi": "60722800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kadastr (hududlar davlat kadastri)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "370",
+        "Yo‘nalish kodi": "60722800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kadastr (ko‘chmas mulk kadastri)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "371",
+        "Yo‘nalish kodi": "60722900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Texnika va texnologiyalarning texnik ekspertizasi va marketingi (turlari bo‘yicha)",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "372",
+        "Yo‘nalish kodi": "60723000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mahsulotlarning kimyoviy tahlili (oziq-ovqat mahsulotlari)",
+        "1-fan": "Kimyo",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "373",
+        "Yo‘nalish kodi": "60723100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qo‘g‘irchoqlar ishlab chiqarish texnologiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "374",
+        "Yo‘nalish kodi": "60730100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Arxitektura (turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Ona tili va"
+    },
+    {
+        "T/r": "375",
+        "Yo‘nalish kodi": "60730200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Shahar qurilishi hamda kommunal infratuzilmani tashkil etish va boshqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "376",
+        "Yo‘nalish kodi": "60730300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qurilish muhandisligi (faoliyat turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "377",
+        "Yo‘nalish kodi": "60730300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qurilish muhandisligi: bino va inshootlar qurilishi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "378",
+        "Yo‘nalish kodi": "60730300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qurilish muhandisligi: devorbop va pardozbop qurilish materiallari texnologiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "379",
+        "Yo‘nalish kodi": "60730300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qurilish muhandisligi: qurilish materiallari, buyumlari va konstruksiyalarini ishlab chiqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "380",
+        "Yo‘nalish kodi": "60730300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qurilish muhandisligi: neft-gazni qayta ishlash sanoati obyektlari qurilishi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "381",
+        "Yo‘nalish kodi": "60730400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Muhandislik kommunikatsiyalari qurilish va montaji (turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "382",
+        "Yo‘nalish kodi": "60730400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Muhandislik kommunikatsiyalari qurilishi va montaji (transport tizimlarida suv ta’minoti va kanalizatsiya)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "383",
+        "Yo‘nalish kodi": "60730500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Suv ta’minoti va kanalizatsiya tizimlarini loyihalashtirish va ekspluatatsiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "384",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi (sohalar va faoliyat turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "385",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: temir yo‘llar qurilishi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "386",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: temir yo‘llar ekspluatatsiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "387",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: ko‘priklar va tonnellar",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "388",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: avtomobil yo‘llarini loyihalash",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "389",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: avtomobil yo‘llarini qurish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "390",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: avtomobil yo‘llarini ekspluatatsiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "391",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: shaxar yo‘llari va ko‘chalari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "392",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: avtomobil yo‘llaridagi sun’iy inshootlar",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "393",
+        "Yo‘nalish kodi": "60730800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l muhandisligi: avtomobil yo‘llarini arxitektura-landshaft konstruksiyalash",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "394",
+        "Yo‘nalish kodi": "60730900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gidrotexnika qurilishi (turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "395",
+        "Yo‘nalish kodi": "60730900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gidrotexnika qurilishi (suv xo‘jaligida)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "396",
+        "Yo‘nalish kodi": "60731000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qiymat injiniringi va ko‘chmas mulk ekspertizasi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "397",
+        "Yo‘nalish kodi": "60731100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Arxitektura yodgorliklari rekonstruksiyasi va restavratsiyasi",
+        "1-fan": "Matematika",
+        "2-fan": "Ona tili va"
+    },
+    {
+        "T/r": "398",
+        "Yo‘nalish kodi": "60810100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qishloq xo‘jaligini mexanizatsiyalashtirish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "399",
+        "Yo‘nalish kodi": "60810200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qishloq xo‘jaligini elektrlashtirish va avtomatlashtirish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "400",
+        "Yo‘nalish kodi": "60810300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qishloq va suv xo‘jaligida texnik servis",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "401",
+        "Yo‘nalish kodi": "60810400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qishloq xo‘jaligida innovatsion texnika va texnologiyalarni qo‘llash",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "402",
+        "Yo‘nalish kodi": "60810500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qishloq va suv xo‘jaligi energiya ta’minoti",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "403",
+        "Yo‘nalish kodi": "60810600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yer kadastri va yerdan foydalanish",
+        "1-fan": "Matematika",
+        "2-fan": "Geografiya"
+    },
+    {
+        "T/r": "404",
+        "Yo‘nalish kodi": "60810700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Agrokimyo va agrotuproqshunoslik",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "405",
+        "Yo‘nalish kodi": "60810800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tuproq bonitirovkasi va yer resurslaridan foydalanish",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "406",
+        "Yo‘nalish kodi": "60810900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Agronomiya (dehqonchilik mahsulotlari turlari bo‘yicha)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "407",
+        "Yo‘nalish kodi": "60810900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Agronomiya (anorchilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "408",
+        "Yo‘nalish kodi": "60810900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Agronomiya (sabzavotchilik va polizchilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "409",
+        "Yo‘nalish kodi": "60810900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Agronomiya (yem-xashak ekinlari)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "410",
+        "Yo‘nalish kodi": "60811000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘simliklarni himoya qilish (ekin turlari bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "411",
+        "Yo‘nalish kodi": "60811100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘simliklar va qishloq xo‘jalik mahsulotlari karantini",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "412",
+        "Yo‘nalish kodi": "60811200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qishloq xo‘jaligi ekinlari seleksiyasi va urug‘chiligi (ekin turlari bo‘yicha)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "413",
+        "Yo‘nalish kodi": "60811300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qishloq xo‘jalik mahsulotlarini saqlash va dastlabki ishlash texnologiyasi (mahsulotlar turlari bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "414",
+        "Yo‘nalish kodi": "60811300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Qishloq xo‘jalik mahsulotlarini saqlash va dastlabki ishlash texnologiyasi (meva-sabzavot)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "415",
+        "Yo‘nalish kodi": "60811400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Organik qishloq xo‘jaligi mahsulotlarini yetishtirish, saqlash va qayta ishlash",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "416",
+        "Yo‘nalish kodi": "60811500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Zooinjeneriya (asalarichilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "417",
+        "Yo‘nalish kodi": "60811500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Zooinjeneriya (baliqchilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "418",
+        "Yo‘nalish kodi": "60811500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Zooinjeneriya (yilqichilik va tuyachilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "419",
+        "Yo‘nalish kodi": "60811500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Zooinjeneriya (qorako‘lchilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "420",
+        "Yo‘nalish kodi": "60811500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Zooinjeneriya (qoramolchilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "421",
+        "Yo‘nalish kodi": "60811500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Zooinjeneriya (parrandachilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "422",
+        "Yo‘nalish kodi": "60811500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Zooinjeneriya (turlar bo‘yicha)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "423",
+        "Yo‘nalish kodi": "60811500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Zooinjeneriya: asalarichilik",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "424",
+        "Yo‘nalish kodi": "60811600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Chorvachilik mahsulotlarini qayta ishlash texnologiyasi",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "425",
+        "Yo‘nalish kodi": "60811700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ipakchilik va tutchilik",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "426",
+        "Yo‘nalish kodi": "60811800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mevachilik va uzumchilik",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "427",
+        "Yo‘nalish kodi": "60811900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Sabzavotchilik, polizchilik va kartoshkachilik",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "428",
+        "Yo‘nalish kodi": "60812000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Issiqxona xo‘jaligini tashkil etish va yuritish",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "429",
+        "Yo‘nalish kodi": "60812100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Dorivor o‘simliklarni yetishtirish va qayta ishlash texnologiyasi",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "430",
+        "Yo‘nalish kodi": "60812200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘simlikshunoslik (gulchilik)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "431",
+        "Yo‘nalish kodi": "60812200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘simlikshunoslik (ekin turlari bo‘yicha)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "432",
+        "Yo‘nalish kodi": "60812200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘simlikshunoslik (yaylov cho‘l o‘simlikshunosligi)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "433",
+        "Yo‘nalish kodi": "60812300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Suv xo‘jaligi va melioratsiya",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "434",
+        "Yo‘nalish kodi": "60812400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Suv xo‘jaligi va melioratsiya ishlarini mexanizatsiyalashtirish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "435",
+        "Yo‘nalish kodi": "60812500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gidrotexnika inshootlari va nasos stansiyalaridan foydalanish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "436",
+        "Yo‘nalish kodi": "60812600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Meliorativ gidrogeologiya",
+        "1-fan": "Fizika",
+        "2-fan": "Matematika"
+    },
+    {
+        "T/r": "437",
+        "Yo‘nalish kodi": "60812700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Irrigatsiya tizimlarida gidroenergetika obyektlari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "438",
+        "Yo‘nalish kodi": "60812900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Suv ta’minoti muhandislik tizimlari",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "439",
+        "Yo‘nalish kodi": "60813000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Suv xo‘jaligida innovatsion texnologiyalar va ulardan foydalanish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "440",
+        "Yo‘nalish kodi": "60813100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yer kadastri va yer tuzish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "441",
+        "Yo‘nalish kodi": "60820100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "O‘rmonchilik",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "442",
+        "Yo‘nalish kodi": "60820200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Manzarali bog‘dorchilik va ko‘kalamzorlashtirish",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "443",
+        "Yo‘nalish kodi": "60830100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Suv bioresurslari va akvakultura",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "444",
+        "Yo‘nalish kodi": "60840100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Veterinariya meditsinasi (faoliyat turlari bo‘yicha)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "445",
+        "Yo‘nalish kodi": "60840100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Veterinariya meditsinasi (yirik shoxli mollar kasalliklari)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "446",
+        "Yo‘nalish kodi": "60840200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Veterinariya farmatsevtikasi",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "447",
+        "Yo‘nalish kodi": "60840300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Veterinariya diagnostikasi va laboratoriya ishlari",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "448",
+        "Yo‘nalish kodi": "60840400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Veterinariya sanitariya ekspertizasi",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "449",
+        "Yo‘nalish kodi": "60840500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Veterinariya biotexnologiyasi",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "450",
+        "Yo‘nalish kodi": "60910100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Stomatologiya (yo‘nalishlar bo‘yicha)",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "451",
+        "Yo‘nalish kodi": "60910200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Davolash ishi",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "452",
+        "Yo‘nalish kodi": "60910300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Pediatriya ishi",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "453",
+        "Yo‘nalish kodi": "60910400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tibbiy profilaktika ishi",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "454",
+        "Yo‘nalish kodi": "60910600",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Tibbiy-biologik ish",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "455",
+        "Yo‘nalish kodi": "60910700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Farmatsiya (turlari bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "456",
+        "Yo‘nalish kodi": "60910800",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Sanoat farmatsiyasi (turlari bo‘yicha)",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "457",
+        "Yo‘nalish kodi": "60910900",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Farmatsevtik biotexnologiya",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "458",
+        "Yo‘nalish kodi": "60911000",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Dori vositalarini standartlashtirish, sertifikatsiyalash va sifat menejmenti",
+        "1-fan": "Kimyo",
+        "2-fan": "Biologiya"
+    },
+    {
+        "T/r": "459",
+        "Yo‘nalish kodi": "60911100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Xalq tabobati",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "460",
+        "Yo‘nalish kodi": "60911200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Oliy hamshiralik ishi",
+        "1-fan": "Biologiya",
+        "2-fan": "Kimyo"
+    },
+    {
+        "T/r": "461",
+        "Yo‘nalish kodi": "60920100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ijtimoiy ish (oila va bolalar bilan ishlash)",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "462",
+        "Yo‘nalish kodi": "60920101",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Ijtimoiy ish (fuqarolarning o‘z-o‘zini boshqarish organlari)",
+        "1-fan": "Biologiya",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "463",
+        "Yo‘nalish kodi": "61010100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mehmonxona xo‘jaligini tashkil etish va boshqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "464",
+        "Yo‘nalish kodi": "61010200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Aholi va turistlarning ovqatlanishini tashkil etish servisi",
+        "1-fan": "Kimyo",
+        "2-fan": "Ingliz tili"
+    },
+    {
+        "T/r": "465",
+        "Yo‘nalish kodi": "61010400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Turizm (faoliyat yo‘nalishlari bo‘yicha)",
+        "1-fan": "Tarix",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "466",
+        "Yo‘nalish kodi": "61010400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Turizm (turizm sohasida xizmatlar texnologiyasi va ularni tashkil etish)",
+        "1-fan": "Tarix",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "467",
+        "Yo‘nalish kodi": "61010400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Turizm (agroturizm)",
+        "1-fan": "Tarix",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "468",
+        "Yo‘nalish kodi": "61010400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Turizm (sport turizmi)",
+        "1-fan": "Tarix",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "469",
+        "Yo‘nalish kodi": "61010400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Turizm (ziyorat turizmi)",
+        "1-fan": "Tarix",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "470",
+        "Yo‘nalish kodi": "61010500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gid hamrohligi va tarjimonlik faoliyati: ingliz tili",
+        "1-fan": "Ingliz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "471",
+        "Yo‘nalish kodi": "61010500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gid hamrohligi va tarjimonlik faoliyati: fors tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "472",
+        "Yo‘nalish kodi": "61010500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gid hamrohligi va tarjimonlik faoliyati: turk tili",
+        "1-fan": "Chet tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "473",
+        "Yo‘nalish kodi": "61010500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gid hamrohligi va tarjimonlik faoliyati: nemis tili",
+        "1-fan": "Nemis tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "474",
+        "Yo‘nalish kodi": "61010500",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Gid hamrohligi va tarjimonlik faoliyati: fransuz tili",
+        "1-fan": "Fransuz tili",
+        "2-fan": "Ona tili va adabiyoti"
+    },
+    {
+        "T/r": "475",
+        "Yo‘nalish kodi": "61010700",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Kommunal infratuzilma va uy-joy kommunal xo‘jaligini tashkil etish va boshqarish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "476",
+        "Yo‘nalish kodi": "61020100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Hayot faoliyati xavfsizligi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "477",
+        "Yo‘nalish kodi": "61020200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mehnat muhofazasi va texnika xavfsizligi (tarmoqlar bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "478",
+        "Yo‘nalish kodi": "61020200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mehnat muhofazasi va texnika xavfsizligi (suv xo‘jaligida)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "479",
+        "Yo‘nalish kodi": "61020200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Mehnat muhofazasi va texnika xavfsizligi (transport)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "480",
+        "Yo‘nalish kodi": "61040100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport logistikasi (avtomobil transporti)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "481",
+        "Yo‘nalish kodi": "61040100",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Transport logistikasi (transport turlari bo‘yicha)",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "482",
+        "Yo‘nalish kodi": "61040200",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Havodagi harakatni boshqarish",
+        "1-fan": "Fizika",
+        "2-fan": "Chet tili"
+    },
+    {
+        "T/r": "483",
+        "Yo‘nalish kodi": "61040300",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Yo‘l harakatini tashkil etish",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    },
+    {
+        "T/r": "484",
+        "Yo‘nalish kodi": "61040400",
+        "Bakalavriat ta’lim yo‘nalishlari nomi": "Avtomobil servisi",
+        "1-fan": "Matematika",
+        "2-fan": "Fizika"
+    }
+]

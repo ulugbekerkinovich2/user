@@ -1,0 +1,34 @@
+﻿
+[
+  {
+    "direction_id": 116,
+    "direction_code": 2332323,
+    "education_type_id": 1,
+    "education_language_id": 1,
+    "grant": 87.9,
+    "contract": 15.1,
+    "grant_quota": 20,
+    "contract_quota": 80
+  },
+  {
+    "direction_id": 116,
+    "direction_code": 2332323,
+    "education_type_id": 2,
+    "education_language_id": 2,
+    "grant": 87.9,
+    "contract": 156.1,
+    "grant_quota": 20,
+    "contract_quota": 80
+  },
+  {
+    "direction_id": 116,
+    "direction_code": 2332323,
+    "education_type_id": 3,
+    "education_language_id": 3,
+    "grant": 87.9,
+    "contract": 156.1,
+    "grant_quota": 20,
+    "contract_quota": 80
+  }
+]
+
